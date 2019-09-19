@@ -3,7 +3,7 @@
 DOG_OWNERS = {
     'Frodo': 'Sam',
     'Robin': 'Ted',
-    'Harry': 'Ron',
+    'Harry': 'Voldemort',
     'Gilmour': 'David'
 }
 
